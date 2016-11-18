@@ -1,0 +1,340 @@
+.logo
+{
+	float:left;
+
+
+}
+.nav-pos
+{
+	margin-top: 20px;
+	margin-left: 80px;
+	font-size: 18px;
+	width:120%;
+}
+.submenu
+{
+	background: url("../img/nav.png");
+	min-height: 752px;
+	min-width: 1920px;
+	
+	
+}
+.search
+{
+background: black;
+	height: 200px;
+	width: 912px;
+	opacity: 0.9;
+	margin: 412px auto 110px;
+
+
+}
+.textSearch 
+{
+text-align: center;
+color:#FFF;
+
+
+}
+.EllipseImage
+{
+	min-width: 1920px;
+	margin-top:100px;
+
+}
+.textUnderImage
+{
+text-align: center;
+width: 65%;
+}
+.HeaderContent
+{
+	text-align: center;
+	margin-top:100px;
+
+}
+.Dental
+{
+margin-top:100px;
+
+}
+
+.Share
+{
+	
+	background: url("../img/Share.png");
+	height: 700px;
+	width: 1920px;
+	background-repeat: no-repeat ;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	
+	
+}
+.button{text-decoration:none; text-align:center; 
+  display: inline-block;
+  margin:   160px 830px ;
+  width: 260px;
+  height: 260px;
+  padding:110px 30px;
+  border-radius: 50%;
+  
+  font:30px "Times New Roman", Times, serif; 
+ font-weight:400; 
+ color:#1e63a3; 
+ background:#ffffff; 
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+
+}
+.button1{
+position: absolute;
+ display: block;
+width: 180px;
+
+height: 180px;
+
+  border-radius: 100%;
+  margin:160px 870px 370px;
+  
+ background: url("../img/Button.png");
+ 
+  
+
+}
+.footerContent
+{
+height: 451px;
+width: 1920px;
+background:rgb(43,56,68) ;
+vertical-align:top;
+
+}
+.textNearImage
+{
+
+float: right;
+text-align: center;
+width: 65%;
+font-size: 24pt;
+
+}
+.class1
+{
+margin-top:40px;
+
+
+
+}
+.logo1
+{
+margin-top:25px;
+
+}
+.wordUnderLogo
+{
+margin-top:20px;
+width:140%;
+font-size: 12pt;
+
+}
+.LatestNews
+{
+
+	font-size: 20pt;
+
+}
+.footer
+{
+
+height: 80px;
+width: 1920px;
+background:rgb(40,50,60);
+
+}
+
+.DentalImage1
+{
+	padding: 20px 0 0 0;
+background: url("../img/Dental center packege.png");
+height: 280px;
+width: 740px;
+
+}
+.selectButton
+{
+margin-top: 40px;
+}
+
+.DentalImage2
+{
+margin-top: 20px;
+background: url("../img/Dental packege.png");
+height: 280px;
+width: 360px;
+display: inline-block;
+
+}
+.DentalImage3
+{
+margin-top: 20px;
+margin-left: 20px;
+background: url("../img/Dental Equipment.png");
+height: 280px;
+width: 360px;
+display: inline-block;
+
+
+
+	
+}
+.DentalImage4
+{ padding: 20px 0 0 0;
+background: url("../img/Start Packege.png");
+height: 579px;
+width: 360px;
+
+	
+}
+.DentalImage5
+{
+	padding: 20px 0 0 0;
+	margin-left: 80px;
+background: url("../img/Dental Packege 2.png");
+height: 280px;
+width: 360px;
+
+	
+}
+.DentalImage6
+{
+	padding: 20px 0 0 0;
+margin-left: 80px;
+margin-top: 20px;
+background: url("../img/Dentist.png");
+height: 280px;
+width: 360px;
+	
+}
+.blockDental{
+	
+margin-top: 20px;
+background: black;
+	height: 48px;
+	width: 340px;
+	opacity: 0.8;
+
+}
+.textDental
+{
+text-align: center;
+font-weight:600;
+color:#FFF;
+font-size:18pt;
+text-transform:uppercase;
+
+}
+.selectRef
+{
+margin-top: 20px;
+}
+.btn
+{
+
+width: 100%;
+}
+
+.textNearNews
+{
+
+
+float: right;
+font-size: 12pt;
+color: white;
+width: 70%;
+clear: both;
+padding: 0;
+}
+.NewsImg
+{
+margin-top:8px;
+
+}
+
+
+.News2
+{
+margin-top:60px;
+
+}
+
+.popupContainer{
+	position:absolute;
+	width:330px;
+	height: auto;
+	left:45%;
+	top:80px;
+	background: #FFF;
+}
+
+#modal_trigger { display:block;}
+
+.btn {padding:10px 20px; background: #F4F4F2;}
+.btn_red {background: #ED6347; color: #FFF;}
+
+.btn:hover {background: #E4E4E2;}
+.btn_red:hover {background: #C12B05;}
+
+a.btn {color:#666; text-align: center; text-decoration: none;}
+
+
+
+.popupHeader {font-size:16px; text-transform: uppercase;}
+.popupHeader {background:#F4F4F2; position:relative; padding:10px 20px; border-bottom:1px solid #DDD; font-weight:bold;}
+.popupHeader .modal_close {position: absolute; right: 0; top:0; padding:10px 15px; background:#E4E4E2; cursor: pointer; color:#aaa; font-size:16px;}
+
+
+
+
+
+
+
+
+#slider-wrap{ 
+	
+	width: 1940px;
+	}
+#slider{ 
+	height: 700px;
+	width: 1920px;
+	overflow: hidden;
+	border:#eee solid 10px;
+	position:relative;}
+.slide{ 
+	width:100%;
+	height:100%;
+	}
+
+.sli-links .control-slide.active{
+	background-position:center top;}
+#prewbutton, #nextbutton{ 
+	display:block;
+	width:52px;
+	height:100%;
+	position:absolute;
+	top:0;
+	overflow:hidden;
+	text-indent:-999px;
+	background:url(../img/arrowBg.png) left center no-repeat;
+	opacity:0.8;
+	z-index:3;
+	outline:none !important;}
+#prewbutton{left:10px;}
+#nextbutton{
+	right:10px;
+	background:url(../img/arrowBg.png) right center no-repeat;}
+#prewbutton:hover, #nextbutton:hover{
+	opacity:1;}
